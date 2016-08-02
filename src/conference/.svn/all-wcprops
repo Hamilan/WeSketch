@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/312/trunk/WeSketch/src/conference
+END
+AVTransmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/312/trunk/WeSketch/src/conference/AVTransmitter.java
+END
+ConferenceControlFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/312/trunk/WeSketch/src/conference/ConferenceControlFrame.java
+END
+ConferenceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/312/trunk/WeSketch/src/conference/ConferenceController.java
+END
+AVReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/312/trunk/WeSketch/src/conference/AVReceiver.java
+END
+Target.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/312/trunk/WeSketch/src/conference/Target.java
+END

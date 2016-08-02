@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/312/trunk/WeSketch/src/networking
+END
+WeSketchServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/312/trunk/WeSketch/src/networking/WeSketchServer.java
+END
+WeSketchClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/312/trunk/WeSketch/src/networking/WeSketchClient.java
+END
+WeSketchNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/312/trunk/WeSketch/src/networking/WeSketchNetwork.java
+END
+ServerSharedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/312/trunk/WeSketch/src/networking/ServerSharedData.java
+END

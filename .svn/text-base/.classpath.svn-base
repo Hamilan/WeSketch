@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/kryonet/lib/kryo-1.01.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/kryonet"/>
+	<classpathentry kind="lib" path="src/ve/lookAndFeel/napkinlaf.jar"/>
+	<classpathentry kind="lib" path="src/ve/lookAndFeel/quaqua.jar"/>
+	<classpathentry kind="lib" path="src/ve/lookAndFeel/substance.jar"/>
+	<classpathentry kind="lib" path="customizer.jar"/>
+	<classpathentry kind="lib" path="mediaplayer.jar"/>
+	<classpathentry kind="lib" path="multiplayer.jar"/>
+	<classpathentry kind="lib" path="sound.jar"/>
+	<classpathentry kind="lib" path="jmf.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jme"/>
+	<classpathentry kind="lib" path="/jme/lib/lwjgl/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="jme/lib/lwjgl/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/312/trunk/WeSketch/src/shared
+END
+ChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/312/trunk/WeSketch/src/shared/ChatMessage.java
+END
+SessionParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/312/trunk/WeSketch/src/shared/SessionParticipant.java
+END
+Notification.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/312/trunk/WeSketch/src/shared/Notification.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/312/trunk/WeSketch/src/shared/User.java
+END
+Cursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/312/trunk/WeSketch/src/shared/Cursor.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/312/trunk/WeSketch/src/shared/Session.java
+END
+WeSketchConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/312/trunk/WeSketch/src/shared/WeSketchConstants.java
+END
+Requirement.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/312/trunk/WeSketch/src/shared/Requirement.java
+END
+Telepointer.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/312/trunk/WeSketch/src/shared/Telepointer.java
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets
+END
+RadioButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/RadioButton.java
+END
+TextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/TextField.java
+END
+ConfirmDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/ConfirmDialog.java
+END
+List.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/List.java
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Tree.java
+END
+TestWidgets.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/TestWidgets.java
+END
+TextArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/TextArea.java
+END
+TabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/TabbedPane.java
+END
+WidgetFont.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/WidgetFont.java
+END
+Breadcrumbs.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Breadcrumbs.java
+END
+MessageDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/MessageDialog.java
+END
+Table.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Table.java
+END
+WidgetData.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/WidgetData.java
+END
+ButtonGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/ButtonGroup.java
+END
+DateChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/DateChooser.java
+END
+Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Frame.java
+END
+ContainerWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/ContainerWidget.java
+END
+Separator.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Separator.java
+END
+Panel.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Panel.java
+END
+Widget.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Widget.java
+END
+CheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/CheckBox.java
+END
+ComponentWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/ComponentWidget.java
+END
+Slider.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Slider.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Menu.java
+END
+ComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/ComboBox.java
+END
+FileChooserField.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/FileChooserField.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Image.java
+END
+BrowserWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/BrowserWindow.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Label.java
+END
+MenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/MenuBar.java
+END
+Button.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/Button.java
+END
+InputDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/312/trunk/WeSketch/src/sketching/widgets/InputDialog.java
+END
